@@ -54,5 +54,5 @@ Analicé ingresos, costos, margen operativo y ROI de campañas de marketing en 6
 ## Contacto
 
 - **Email:** csaraf127@gmail.com
-- **LinkedIn:** linkedin.com/in/flavio-césar-ortiz-santos5738633b9
+- **LinkedIn:** linkedin.com/in/flavio-césar-ortiz-santos5738633b9/
 - **Certificación:** Análisis de Datos · TripleTen · 2025–2026
